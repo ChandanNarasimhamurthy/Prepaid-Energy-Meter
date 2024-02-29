@@ -1,2 +1,2 @@
-# Prepaid-Energy-Meter
-Prepaid Energy Meter using GSM Module- Mini project carried out in 6th Semester
+# Prepaid-Energy-Meter using GSM Module
+ Mini project carried out in 6th Semester
